@@ -10,7 +10,7 @@ window.EXHIBIT = [
   "plates": [
    {
     "n": 1,
-    "file": "media/cyberpunk/01.webp",
+    "file": "cyberpunk/01.webp",
     "w": 2000,
     "h": 1250,
     "kb": 125,
@@ -20,7 +20,7 @@ window.EXHIBIT = [
    },
    {
     "n": 2,
-    "file": "media/cyberpunk/02.webp",
+    "file": "cyberpunk/02.webp",
     "w": 2000,
     "h": 1250,
     "kb": 73,
@@ -30,7 +30,7 @@ window.EXHIBIT = [
    },
    {
     "n": 3,
-    "file": "media/cyberpunk/03.webp",
+    "file": "cyberpunk/03.webp",
     "w": 2000,
     "h": 1250,
     "kb": 64,
@@ -40,7 +40,7 @@ window.EXHIBIT = [
    },
    {
     "n": 4,
-    "file": "media/cyberpunk/04.webp",
+    "file": "cyberpunk/04.webp",
     "w": 2000,
     "h": 1250,
     "kb": 280,
@@ -50,7 +50,7 @@ window.EXHIBIT = [
    },
    {
     "n": 5,
-    "file": "media/cyberpunk/05.webp",
+    "file": "cyberpunk/05.webp",
     "w": 2000,
     "h": 1250,
     "kb": 228,
@@ -60,7 +60,7 @@ window.EXHIBIT = [
    },
    {
     "n": 6,
-    "file": "media/cyberpunk/06.webp",
+    "file": "cyberpunk/06.webp",
     "w": 2000,
     "h": 1250,
     "kb": 50,
@@ -70,7 +70,7 @@ window.EXHIBIT = [
    },
    {
     "n": 7,
-    "file": "media/cyberpunk/07.webp",
+    "file": "cyberpunk/07.webp",
     "w": 2000,
     "h": 1250,
     "kb": 194,
@@ -80,7 +80,7 @@ window.EXHIBIT = [
    },
    {
     "n": 8,
-    "file": "media/cyberpunk/08.webp",
+    "file": "cyberpunk/08.webp",
     "w": 2000,
     "h": 1250,
     "kb": 182,
@@ -90,7 +90,7 @@ window.EXHIBIT = [
    },
    {
     "n": 9,
-    "file": "media/cyberpunk/09.webp",
+    "file": "cyberpunk/09.webp",
     "w": 2000,
     "h": 1250,
     "kb": 208,
@@ -100,7 +100,7 @@ window.EXHIBIT = [
    },
    {
     "n": 10,
-    "file": "media/cyberpunk/10.webp",
+    "file": "cyberpunk/10.webp",
     "w": 2000,
     "h": 1250,
     "kb": 44,
@@ -110,7 +110,7 @@ window.EXHIBIT = [
    },
    {
     "n": 11,
-    "file": "media/cyberpunk/11.webp",
+    "file": "cyberpunk/11.webp",
     "w": 1920,
     "h": 1080,
     "kb": 362,
@@ -120,7 +120,7 @@ window.EXHIBIT = [
    },
    {
     "n": 12,
-    "file": "media/cyberpunk/12.webp",
+    "file": "cyberpunk/12.webp",
     "w": 2000,
     "h": 1250,
     "kb": 166,
@@ -130,7 +130,7 @@ window.EXHIBIT = [
    },
    {
     "n": 13,
-    "file": "media/cyberpunk/13.webp",
+    "file": "cyberpunk/13.webp",
     "w": 2000,
     "h": 1250,
     "kb": 93,
@@ -140,7 +140,7 @@ window.EXHIBIT = [
    },
    {
     "n": 14,
-    "file": "media/cyberpunk/14.webp",
+    "file": "cyberpunk/14.webp",
     "w": 2000,
     "h": 1250,
     "kb": 112,
@@ -150,7 +150,7 @@ window.EXHIBIT = [
    },
    {
     "n": 15,
-    "file": "media/cyberpunk/15.webp",
+    "file": "cyberpunk/15.webp",
     "w": 2000,
     "h": 1250,
     "kb": 106,
@@ -160,7 +160,7 @@ window.EXHIBIT = [
    },
    {
     "n": 16,
-    "file": "media/cyberpunk/16.webp",
+    "file": "cyberpunk/16.webp",
     "w": 2000,
     "h": 1250,
     "kb": 245,
@@ -170,7 +170,7 @@ window.EXHIBIT = [
    },
    {
     "n": 17,
-    "file": "media/cyberpunk/17.webp",
+    "file": "cyberpunk/17.webp",
     "w": 2000,
     "h": 1250,
     "kb": 39,
@@ -180,7 +180,7 @@ window.EXHIBIT = [
    },
    {
     "n": 18,
-    "file": "media/cyberpunk/18.webp",
+    "file": "cyberpunk/18.webp",
     "w": 2000,
     "h": 1250,
     "kb": 228,
@@ -190,7 +190,7 @@ window.EXHIBIT = [
    },
    {
     "n": 19,
-    "file": "media/cyberpunk/19.webp",
+    "file": "cyberpunk/19.webp",
     "w": 2000,
     "h": 1250,
     "kb": 118,
@@ -200,7 +200,7 @@ window.EXHIBIT = [
    },
    {
     "n": 20,
-    "file": "media/cyberpunk/20.webp",
+    "file": "cyberpunk/20.webp",
     "w": 2000,
     "h": 1250,
     "kb": 345,
@@ -210,7 +210,7 @@ window.EXHIBIT = [
    },
    {
     "n": 21,
-    "file": "media/cyberpunk/21.webp",
+    "file": "cyberpunk/21.webp",
     "w": 2000,
     "h": 1250,
     "kb": 59,
@@ -220,7 +220,7 @@ window.EXHIBIT = [
    },
    {
     "n": 22,
-    "file": "media/cyberpunk/22.webp",
+    "file": "cyberpunk/22.webp",
     "w": 2000,
     "h": 1250,
     "kb": 240,
@@ -230,7 +230,7 @@ window.EXHIBIT = [
    },
    {
     "n": 23,
-    "file": "media/cyberpunk/23.webp",
+    "file": "cyberpunk/23.webp",
     "w": 2000,
     "h": 1250,
     "kb": 202,
@@ -240,7 +240,7 @@ window.EXHIBIT = [
    },
    {
     "n": 24,
-    "file": "media/cyberpunk/24.webp",
+    "file": "cyberpunk/24.webp",
     "w": 2000,
     "h": 1250,
     "kb": 66,
@@ -250,7 +250,7 @@ window.EXHIBIT = [
    },
    {
     "n": 25,
-    "file": "media/cyberpunk/25.webp",
+    "file": "cyberpunk/25.webp",
     "w": 2000,
     "h": 1250,
     "kb": 98,
@@ -260,7 +260,7 @@ window.EXHIBIT = [
    },
    {
     "n": 26,
-    "file": "media/cyberpunk/26.webp",
+    "file": "cyberpunk/26.webp",
     "w": 2000,
     "h": 1250,
     "kb": 311,
@@ -270,7 +270,7 @@ window.EXHIBIT = [
    },
    {
     "n": 27,
-    "file": "media/cyberpunk/27.webp",
+    "file": "cyberpunk/27.webp",
     "w": 2000,
     "h": 1250,
     "kb": 168,
@@ -280,7 +280,7 @@ window.EXHIBIT = [
    },
    {
     "n": 28,
-    "file": "media/cyberpunk/28.webp",
+    "file": "cyberpunk/28.webp",
     "w": 2000,
     "h": 1250,
     "kb": 263,
@@ -290,7 +290,7 @@ window.EXHIBIT = [
    },
    {
     "n": 29,
-    "file": "media/cyberpunk/29.webp",
+    "file": "cyberpunk/29.webp",
     "w": 2000,
     "h": 1250,
     "kb": 88,
@@ -300,7 +300,7 @@ window.EXHIBIT = [
    },
    {
     "n": 30,
-    "file": "media/cyberpunk/30.webp",
+    "file": "cyberpunk/30.webp",
     "w": 2000,
     "h": 1250,
     "kb": 217,
@@ -320,7 +320,7 @@ window.EXHIBIT = [
   "plates": [
    {
     "n": 1,
-    "file": "media/stranding/01.webp",
+    "file": "stranding/01.webp",
     "w": 2000,
     "h": 1250,
     "kb": 111,
@@ -330,7 +330,7 @@ window.EXHIBIT = [
    },
    {
     "n": 2,
-    "file": "media/stranding/02.webp",
+    "file": "stranding/02.webp",
     "w": 2000,
     "h": 1250,
     "kb": 34,
@@ -340,7 +340,7 @@ window.EXHIBIT = [
    },
    {
     "n": 3,
-    "file": "media/stranding/03.webp",
+    "file": "stranding/03.webp",
     "w": 2000,
     "h": 1250,
     "kb": 251,
@@ -350,7 +350,7 @@ window.EXHIBIT = [
    },
    {
     "n": 4,
-    "file": "media/stranding/04.webp",
+    "file": "stranding/04.webp",
     "w": 2000,
     "h": 1250,
     "kb": 69,
@@ -360,7 +360,7 @@ window.EXHIBIT = [
    },
    {
     "n": 5,
-    "file": "media/stranding/05.webp",
+    "file": "stranding/05.webp",
     "w": 2000,
     "h": 1250,
     "kb": 313,
@@ -370,7 +370,7 @@ window.EXHIBIT = [
    },
    {
     "n": 6,
-    "file": "media/stranding/06.webp",
+    "file": "stranding/06.webp",
     "w": 2000,
     "h": 1250,
     "kb": 272,
@@ -380,7 +380,7 @@ window.EXHIBIT = [
    },
    {
     "n": 7,
-    "file": "media/stranding/07.webp",
+    "file": "stranding/07.webp",
     "w": 2000,
     "h": 1250,
     "kb": 68,
@@ -390,7 +390,7 @@ window.EXHIBIT = [
    },
    {
     "n": 8,
-    "file": "media/stranding/08.webp",
+    "file": "stranding/08.webp",
     "w": 2000,
     "h": 1250,
     "kb": 49,
@@ -400,7 +400,7 @@ window.EXHIBIT = [
    },
    {
     "n": 9,
-    "file": "media/stranding/09.webp",
+    "file": "stranding/09.webp",
     "w": 2000,
     "h": 1250,
     "kb": 215,
@@ -410,7 +410,7 @@ window.EXHIBIT = [
    },
    {
     "n": 10,
-    "file": "media/stranding/10.webp",
+    "file": "stranding/10.webp",
     "w": 2000,
     "h": 1250,
     "kb": 327,
@@ -420,7 +420,7 @@ window.EXHIBIT = [
    },
    {
     "n": 11,
-    "file": "media/stranding/11.webp",
+    "file": "stranding/11.webp",
     "w": 2000,
     "h": 1250,
     "kb": 210,
@@ -430,7 +430,7 @@ window.EXHIBIT = [
    },
    {
     "n": 12,
-    "file": "media/stranding/12.webp",
+    "file": "stranding/12.webp",
     "w": 2000,
     "h": 1250,
     "kb": 69,
@@ -440,7 +440,7 @@ window.EXHIBIT = [
    },
    {
     "n": 13,
-    "file": "media/stranding/13.webp",
+    "file": "stranding/13.webp",
     "w": 2000,
     "h": 1250,
     "kb": 167,
@@ -450,7 +450,7 @@ window.EXHIBIT = [
    },
    {
     "n": 14,
-    "file": "media/stranding/14.webp",
+    "file": "stranding/14.webp",
     "w": 2000,
     "h": 1250,
     "kb": 133,
@@ -460,7 +460,7 @@ window.EXHIBIT = [
    },
    {
     "n": 15,
-    "file": "media/stranding/15.webp",
+    "file": "stranding/15.webp",
     "w": 2000,
     "h": 1250,
     "kb": 258,
@@ -470,7 +470,7 @@ window.EXHIBIT = [
    },
    {
     "n": 16,
-    "file": "media/stranding/16.webp",
+    "file": "stranding/16.webp",
     "w": 2000,
     "h": 1250,
     "kb": 189,
@@ -480,7 +480,7 @@ window.EXHIBIT = [
    },
    {
     "n": 17,
-    "file": "media/stranding/17.webp",
+    "file": "stranding/17.webp",
     "w": 2000,
     "h": 1250,
     "kb": 283,
@@ -490,7 +490,7 @@ window.EXHIBIT = [
    },
    {
     "n": 18,
-    "file": "media/stranding/18.webp",
+    "file": "stranding/18.webp",
     "w": 2000,
     "h": 1250,
     "kb": 88,
@@ -500,7 +500,7 @@ window.EXHIBIT = [
    },
    {
     "n": 19,
-    "file": "media/stranding/19.webp",
+    "file": "stranding/19.webp",
     "w": 2000,
     "h": 1250,
     "kb": 149,
@@ -510,7 +510,7 @@ window.EXHIBIT = [
    },
    {
     "n": 20,
-    "file": "media/stranding/20.webp",
+    "file": "stranding/20.webp",
     "w": 2000,
     "h": 1250,
     "kb": 233,
@@ -520,7 +520,7 @@ window.EXHIBIT = [
    },
    {
     "n": 21,
-    "file": "media/stranding/21.webp",
+    "file": "stranding/21.webp",
     "w": 2000,
     "h": 1250,
     "kb": 159,
@@ -530,7 +530,7 @@ window.EXHIBIT = [
    },
    {
     "n": 22,
-    "file": "media/stranding/22.webp",
+    "file": "stranding/22.webp",
     "w": 2000,
     "h": 1250,
     "kb": 165,
@@ -540,7 +540,7 @@ window.EXHIBIT = [
    },
    {
     "n": 23,
-    "file": "media/stranding/23.webp",
+    "file": "stranding/23.webp",
     "w": 2000,
     "h": 1250,
     "kb": 96,
@@ -550,7 +550,7 @@ window.EXHIBIT = [
    },
    {
     "n": 24,
-    "file": "media/stranding/24.webp",
+    "file": "stranding/24.webp",
     "w": 2000,
     "h": 1250,
     "kb": 172,
@@ -560,7 +560,7 @@ window.EXHIBIT = [
    },
    {
     "n": 25,
-    "file": "media/stranding/25.webp",
+    "file": "stranding/25.webp",
     "w": 2000,
     "h": 1250,
     "kb": 81,
@@ -570,7 +570,7 @@ window.EXHIBIT = [
    },
    {
     "n": 26,
-    "file": "media/stranding/26.webp",
+    "file": "stranding/26.webp",
     "w": 2000,
     "h": 1250,
     "kb": 68,
@@ -580,7 +580,7 @@ window.EXHIBIT = [
    },
    {
     "n": 27,
-    "file": "media/stranding/27.webp",
+    "file": "stranding/27.webp",
     "w": 2000,
     "h": 1250,
     "kb": 143,
@@ -590,7 +590,7 @@ window.EXHIBIT = [
    },
    {
     "n": 28,
-    "file": "media/stranding/28.webp",
+    "file": "stranding/28.webp",
     "w": 2000,
     "h": 1250,
     "kb": 81,
@@ -600,7 +600,7 @@ window.EXHIBIT = [
    },
    {
     "n": 29,
-    "file": "media/stranding/29.webp",
+    "file": "stranding/29.webp",
     "w": 2000,
     "h": 1250,
     "kb": 65,
@@ -610,7 +610,7 @@ window.EXHIBIT = [
    },
    {
     "n": 30,
-    "file": "media/stranding/30.webp",
+    "file": "stranding/30.webp",
     "w": 2000,
     "h": 1250,
     "kb": 73,
@@ -620,7 +620,7 @@ window.EXHIBIT = [
    },
    {
     "n": 31,
-    "file": "media/stranding/31.webp",
+    "file": "stranding/31.webp",
     "w": 2000,
     "h": 1250,
     "kb": 162,
@@ -630,7 +630,7 @@ window.EXHIBIT = [
    },
    {
     "n": 32,
-    "file": "media/stranding/32.webp",
+    "file": "stranding/32.webp",
     "w": 2000,
     "h": 1250,
     "kb": 251,
@@ -640,7 +640,7 @@ window.EXHIBIT = [
    },
    {
     "n": 33,
-    "file": "media/stranding/33.webp",
+    "file": "stranding/33.webp",
     "w": 2000,
     "h": 1250,
     "kb": 274,
@@ -650,7 +650,7 @@ window.EXHIBIT = [
    },
    {
     "n": 34,
-    "file": "media/stranding/34.webp",
+    "file": "stranding/34.webp",
     "w": 2000,
     "h": 1250,
     "kb": 163,
@@ -670,7 +670,7 @@ window.EXHIBIT = [
   "plates": [
    {
     "n": 1,
-    "file": "media/stranding2/01.webp",
+    "file": "stranding2/01.webp",
     "w": 2000,
     "h": 1250,
     "kb": 139,
@@ -680,7 +680,7 @@ window.EXHIBIT = [
    },
    {
     "n": 2,
-    "file": "media/stranding2/02.webp",
+    "file": "stranding2/02.webp",
     "w": 2000,
     "h": 1250,
     "kb": 107,
@@ -690,7 +690,7 @@ window.EXHIBIT = [
    },
    {
     "n": 3,
-    "file": "media/stranding2/03.webp",
+    "file": "stranding2/03.webp",
     "w": 2000,
     "h": 1250,
     "kb": 155,
@@ -700,7 +700,7 @@ window.EXHIBIT = [
    },
    {
     "n": 4,
-    "file": "media/stranding2/04.webp",
+    "file": "stranding2/04.webp",
     "w": 2000,
     "h": 1250,
     "kb": 64,
@@ -710,7 +710,7 @@ window.EXHIBIT = [
    },
    {
     "n": 5,
-    "file": "media/stranding2/05.webp",
+    "file": "stranding2/05.webp",
     "w": 2000,
     "h": 1250,
     "kb": 46,
@@ -720,7 +720,7 @@ window.EXHIBIT = [
    },
    {
     "n": 6,
-    "file": "media/stranding2/06.webp",
+    "file": "stranding2/06.webp",
     "w": 2000,
     "h": 1250,
     "kb": 262,
@@ -730,7 +730,7 @@ window.EXHIBIT = [
    },
    {
     "n": 7,
-    "file": "media/stranding2/07.webp",
+    "file": "stranding2/07.webp",
     "w": 2000,
     "h": 1250,
     "kb": 65,
@@ -740,7 +740,7 @@ window.EXHIBIT = [
    },
    {
     "n": 8,
-    "file": "media/stranding2/08.webp",
+    "file": "stranding2/08.webp",
     "w": 2000,
     "h": 1250,
     "kb": 454,
@@ -750,7 +750,7 @@ window.EXHIBIT = [
    },
    {
     "n": 9,
-    "file": "media/stranding2/09.webp",
+    "file": "stranding2/09.webp",
     "w": 2000,
     "h": 1250,
     "kb": 101,
@@ -760,7 +760,7 @@ window.EXHIBIT = [
    },
    {
     "n": 10,
-    "file": "media/stranding2/10.webp",
+    "file": "stranding2/10.webp",
     "w": 2000,
     "h": 1250,
     "kb": 104,
@@ -770,7 +770,7 @@ window.EXHIBIT = [
    },
    {
     "n": 11,
-    "file": "media/stranding2/11.webp",
+    "file": "stranding2/11.webp",
     "w": 2000,
     "h": 1250,
     "kb": 261,
@@ -780,7 +780,7 @@ window.EXHIBIT = [
    },
    {
     "n": 12,
-    "file": "media/stranding2/12.webp",
+    "file": "stranding2/12.webp",
     "w": 2000,
     "h": 1250,
     "kb": 113,
@@ -790,7 +790,7 @@ window.EXHIBIT = [
    },
    {
     "n": 13,
-    "file": "media/stranding2/13.webp",
+    "file": "stranding2/13.webp",
     "w": 2000,
     "h": 1250,
     "kb": 280,
@@ -800,7 +800,7 @@ window.EXHIBIT = [
    },
    {
     "n": 14,
-    "file": "media/stranding2/14.webp",
+    "file": "stranding2/14.webp",
     "w": 2000,
     "h": 1250,
     "kb": 562,
@@ -810,7 +810,7 @@ window.EXHIBIT = [
    },
    {
     "n": 15,
-    "file": "media/stranding2/15.webp",
+    "file": "stranding2/15.webp",
     "w": 2000,
     "h": 1250,
     "kb": 497,
@@ -820,7 +820,7 @@ window.EXHIBIT = [
    },
    {
     "n": 16,
-    "file": "media/stranding2/16.webp",
+    "file": "stranding2/16.webp",
     "w": 2000,
     "h": 1250,
     "kb": 457,
@@ -830,7 +830,7 @@ window.EXHIBIT = [
    },
    {
     "n": 17,
-    "file": "media/stranding2/17.webp",
+    "file": "stranding2/17.webp",
     "w": 2000,
     "h": 1250,
     "kb": 129,
@@ -840,7 +840,7 @@ window.EXHIBIT = [
    },
    {
     "n": 18,
-    "file": "media/stranding2/18.webp",
+    "file": "stranding2/18.webp",
     "w": 2000,
     "h": 1250,
     "kb": 94,
@@ -850,7 +850,7 @@ window.EXHIBIT = [
    },
    {
     "n": 19,
-    "file": "media/stranding2/19.webp",
+    "file": "stranding2/19.webp",
     "w": 2000,
     "h": 1250,
     "kb": 182,
@@ -860,7 +860,7 @@ window.EXHIBIT = [
    },
    {
     "n": 20,
-    "file": "media/stranding2/20.webp",
+    "file": "stranding2/20.webp",
     "w": 2000,
     "h": 1250,
     "kb": 202,
@@ -870,7 +870,7 @@ window.EXHIBIT = [
    },
    {
     "n": 21,
-    "file": "media/stranding2/21.webp",
+    "file": "stranding2/21.webp",
     "w": 2000,
     "h": 1250,
     "kb": 368,
@@ -880,7 +880,7 @@ window.EXHIBIT = [
    },
    {
     "n": 22,
-    "file": "media/stranding2/22.webp",
+    "file": "stranding2/22.webp",
     "w": 2000,
     "h": 1250,
     "kb": 365,
@@ -890,7 +890,7 @@ window.EXHIBIT = [
    },
    {
     "n": 23,
-    "file": "media/stranding2/23.webp",
+    "file": "stranding2/23.webp",
     "w": 2000,
     "h": 1250,
     "kb": 68,
@@ -900,7 +900,7 @@ window.EXHIBIT = [
    },
    {
     "n": 24,
-    "file": "media/stranding2/24.webp",
+    "file": "stranding2/24.webp",
     "w": 2000,
     "h": 1250,
     "kb": 210,
@@ -910,7 +910,7 @@ window.EXHIBIT = [
    },
    {
     "n": 25,
-    "file": "media/stranding2/25.webp",
+    "file": "stranding2/25.webp",
     "w": 2000,
     "h": 1250,
     "kb": 122,
@@ -920,7 +920,7 @@ window.EXHIBIT = [
    },
    {
     "n": 26,
-    "file": "media/stranding2/26.webp",
+    "file": "stranding2/26.webp",
     "w": 2000,
     "h": 1250,
     "kb": 97,
@@ -930,7 +930,7 @@ window.EXHIBIT = [
    },
    {
     "n": 27,
-    "file": "media/stranding2/27.webp",
+    "file": "stranding2/27.webp",
     "w": 2000,
     "h": 1250,
     "kb": 80,
@@ -940,7 +940,7 @@ window.EXHIBIT = [
    },
    {
     "n": 28,
-    "file": "media/stranding2/28.webp",
+    "file": "stranding2/28.webp",
     "w": 2000,
     "h": 1250,
     "kb": 59,
@@ -950,7 +950,7 @@ window.EXHIBIT = [
    },
    {
     "n": 29,
-    "file": "media/stranding2/29.webp",
+    "file": "stranding2/29.webp",
     "w": 2000,
     "h": 1250,
     "kb": 72,
@@ -960,7 +960,7 @@ window.EXHIBIT = [
    },
    {
     "n": 30,
-    "file": "media/stranding2/30.webp",
+    "file": "stranding2/30.webp",
     "w": 2000,
     "h": 1250,
     "kb": 51,
@@ -970,7 +970,7 @@ window.EXHIBIT = [
    },
    {
     "n": 31,
-    "file": "media/stranding2/31.webp",
+    "file": "stranding2/31.webp",
     "w": 2000,
     "h": 1250,
     "kb": 85,
@@ -980,7 +980,7 @@ window.EXHIBIT = [
    },
    {
     "n": 32,
-    "file": "media/stranding2/32.webp",
+    "file": "stranding2/32.webp",
     "w": 2000,
     "h": 1250,
     "kb": 48,
@@ -990,7 +990,7 @@ window.EXHIBIT = [
    },
    {
     "n": 33,
-    "file": "media/stranding2/33.webp",
+    "file": "stranding2/33.webp",
     "w": 2000,
     "h": 1250,
     "kb": 49,
@@ -1000,7 +1000,7 @@ window.EXHIBIT = [
    },
    {
     "n": 34,
-    "file": "media/stranding2/34.webp",
+    "file": "stranding2/34.webp",
     "w": 2000,
     "h": 1250,
     "kb": 81,
@@ -1010,7 +1010,7 @@ window.EXHIBIT = [
    },
    {
     "n": 35,
-    "file": "media/stranding2/35.webp",
+    "file": "stranding2/35.webp",
     "w": 2000,
     "h": 1250,
     "kb": 71,
@@ -1020,7 +1020,7 @@ window.EXHIBIT = [
    },
    {
     "n": 36,
-    "file": "media/stranding2/36.webp",
+    "file": "stranding2/36.webp",
     "w": 2000,
     "h": 1250,
     "kb": 180,
@@ -1030,7 +1030,7 @@ window.EXHIBIT = [
    },
    {
     "n": 37,
-    "file": "media/stranding2/37.webp",
+    "file": "stranding2/37.webp",
     "w": 2000,
     "h": 1250,
     "kb": 92,
@@ -1041,4 +1041,5 @@ window.EXHIBIT = [
   ]
  }
 ];
+
 
