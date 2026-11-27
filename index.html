@@ -289,6 +289,32 @@
 
 <script src="js/data.js"></script>
 <script src="js/site.js"></script>
+
+<!-- 自检：样式表没跟着上传时，直接把原因写在页面上，不让人对着一堆裸文字发懵 -->
+<script>
+(function () {
+  try {
+    var probe = document.querySelector('.topbar');
+    if (probe && getComputedStyle(probe).position === 'fixed') return;
+    var d = document.createElement('div');
+    d.setAttribute('style', 'position:fixed;inset:0;z-index:99999;overflow:auto;background:#0f0f0f;color:#fff;' +
+      'font:15px/1.75 -apple-system,"PingFang SC","Microsoft YaHei",sans-serif;padding:52px 24px');
+    d.innerHTML =
+      '<div style="max-width:640px;margin:0 auto">' +
+      '<div style="font:11px/1 ui-monospace,Menlo,monospace;letter-spacing:.14em;color:#e0c400;margin-bottom:18px">UPLOAD INCOMPLETE</div>' +
+      '<h1 style="font-size:24px;line-height:1.35;margin:0 0 18px;font-weight:600">网站文件没有传全</h1>' +
+      '<p style="margin:0 0 14px;color:#b8b8b8">页面本身加载到了，但 <code style="color:#fff">css</code>、<code style="color:#fff">js</code>、' +
+      '<code style="color:#fff">fonts</code>、<code style="color:#fff">media</code> 这四个文件夹不在服务器上，' +
+      '所以没有任何排版和图片。</p>' +
+      '<p style="margin:0 0 14px;color:#b8b8b8">原因通常是点「choose your files」用文件对话框选的——那里面选不了文件夹。' +
+      '请改成：从资源管理器把文件夹<b style="color:#fff">直接拖到 GitHub 上传页面</b>的虚线框里。</p>' +
+      '<p style="margin:0;color:#6a6a6a;font-size:13px">自查：地址栏打开 <code>/css/site.css</code>，' +
+      '看到 CSS 代码就对了；看到网页就说明还没传上去。</p>' +
+      '</div>';
+    document.body.appendChild(d);
+  } catch (e) {}
+})();
+</script>
 </body>
 </html>
 
